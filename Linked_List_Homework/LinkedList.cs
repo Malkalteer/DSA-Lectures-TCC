@@ -2,7 +2,7 @@
 
 namespace Linked_List_Homework
 {
-  internal class LinkedList
+  public class LinkedList
     {
         Node First { get; set; }
 
