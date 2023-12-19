@@ -4,7 +4,7 @@ namespace Linked_List_Homework
 {
   public class LinkedList
     {
-        Node First { get; set; }
+        public Node First { get; set; }
 
         public void Print()
         {
